@@ -9,9 +9,9 @@
 
 - 👯 I’m looking to collaborate on **.Net and React Projects**
 
-- 📫 How to reach me **hello@imamul.com.bd**
+- 📫 Reach me at **hello@imamul.com.bd**
 
-- 📄 Know about my experiences [portfolio.imamul.com.bd](portfolio.imamul.com.bd)
+- 📄 Know about my experiences [portfolio.imamul.com.bd](https://portfolio.imamul.com.bd)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
