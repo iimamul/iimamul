@@ -3,11 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iimamul&label=Profile%20views&color=0e75b6&style=flat" alt="iimamul" /> </p>
 
-- 🔭 I’m currently working on developing my DSA and .Net core skills once again.
-
-- 🌱 I’m currently learning **.NET(Continuous Journey), DSA(again),and React**
-
-- 👯 I’m looking to collaborate on **.Net and React Projects**
+- 🔭 I’m looking to collaborate on **.Net and React Projects**
 
 - 📫 Reach me at **hello@imamul.com.bd**
 
