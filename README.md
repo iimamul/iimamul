@@ -27,4 +27,9 @@
 
 # Recent Activity :zap:
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#166](https://github.com/ani1609/Spendwise/pull/166) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
+2. 🗣 Commented on [#157](https://github.com/ani1609/Spendwise/issues/157#issuecomment-1848992008) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
+3. 💪 Opened PR [#165](https://github.com/ani1609/Spendwise/pull/165) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
+4. ❗ Opened issue [#164](https://github.com/ani1609/Spendwise/issues/164) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
+5. 🗣 Commented on [#157](https://github.com/ani1609/Spendwise/issues/157#issuecomment-1848985825) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
 <!--END_SECTION:activity-->
