@@ -1,11 +1,11 @@
-<h1 align="center">Hey, This is Md. Imamul Islam (nAyeem)</h1>
+<h1 align="center">Hey, This is Imamul Islam nAyeem</h1>
 <h3 align="center">A passionate Software Engineer who loves to learn new technologies.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iimamul&label=Profile%20views&color=0e75b6&style=flat" alt="iimamul" /> </p>
 
 - 🔭 I’m looking to collaborate on **.Net and React Projects**
 
-- 📫 Reach me at **hello@imamul.com.bd**
+- 📫 Reach me at **contact@imamul.com.bd**
 
 - 📄 Know about my experiences [portfolio.imamul.com.bd](https://portfolio.imamul.com.bd)
 
