@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iimamul&label=Profile%20views&color=0e75b6&style=flat" alt="iimamul" /> </p>
 
-- 🔭 I’m looking to collaborate on **.Net and React Projects**
+- 🔭 Open to collaborating on **.Net and React Projects**
 
 - 📫 Reach me at **contact@imamul.com.bd**
 
