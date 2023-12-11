@@ -26,16 +26,16 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/iimamul/OfficeHarmonyPro/pull/2) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
-2. 💪 Opened PR [#2](https://github.com/iimamul/OfficeHarmonyPro/pull/2) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
-3. 💪 Opened PR [#166](https://github.com/ani1609/Spendwise/pull/166) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
-4. 🗣 Commented on [#157](https://github.com/ani1609/Spendwise/issues/157#issuecomment-1848992008) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
-5. 💪 Opened PR [#165](https://github.com/ani1609/Spendwise/pull/165) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
-6. ❗ Opened issue [#164](https://github.com/ani1609/Spendwise/issues/164) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
-7. 🗣 Commented on [#157](https://github.com/ani1609/Spendwise/issues/157#issuecomment-1848985825) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
-8. 🗣 Commented on [#157](https://github.com/ani1609/Spendwise/issues/157#issuecomment-1848975480) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
-9. 💪 Opened PR [#161](https://github.com/RaythaHQ/raytha/pull/161) in [RaythaHQ/raytha](https://github.com/RaythaHQ/raytha)
-10. 🗣 Commented on [#38](https://github.com/Developing-Developer2019/LibraryManagementApp/issues/38#issuecomment-1848873330) in [Developing-Developer2019/LibraryManagementApp](https://github.com/Developing-Developer2019/LibraryManagementApp)
+1. ❗ Opened issue [#4](https://github.com/iimamul/OfficeHarmonyPro/issues/4) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+2. ❗ Opened issue [#3](https://github.com/iimamul/OfficeHarmonyPro/issues/3) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+3. 🎉 Merged PR [#2](https://github.com/iimamul/OfficeHarmonyPro/pull/2) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+4. 💪 Opened PR [#2](https://github.com/iimamul/OfficeHarmonyPro/pull/2) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+5. 💪 Opened PR [#166](https://github.com/ani1609/Spendwise/pull/166) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
+6. 🗣 Commented on [#157](https://github.com/ani1609/Spendwise/issues/157#issuecomment-1848992008) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
+7. 💪 Opened PR [#165](https://github.com/ani1609/Spendwise/pull/165) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
+8. ❗ Opened issue [#164](https://github.com/ani1609/Spendwise/issues/164) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
+9. 🗣 Commented on [#157](https://github.com/ani1609/Spendwise/issues/157#issuecomment-1848985825) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
+10. 🗣 Commented on [#157](https://github.com/ani1609/Spendwise/issues/157#issuecomment-1848975480) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
 <!--END_SECTION:activity-->
 ---
 
