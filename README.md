@@ -26,16 +26,16 @@
 ## :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/Developing-Developer2019/LibraryManagementApp/issues/38#issuecomment-1849950037) in [Developing-Developer2019/LibraryManagementApp](https://github.com/Developing-Developer2019/LibraryManagementApp)
-2. ❗ Opened issue [#7](https://github.com/iimamul/OfficeHarmonyPro/issues/7) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
-3. 🔒 Closed issue [#3](https://github.com/iimamul/OfficeHarmonyPro/issues/3) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
-4. 🎉 Merged PR [#5](https://github.com/iimamul/OfficeHarmonyPro/pull/5) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
-5. ❗ Opened issue [#4](https://github.com/iimamul/OfficeHarmonyPro/issues/4) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
-6. ❗ Opened issue [#3](https://github.com/iimamul/OfficeHarmonyPro/issues/3) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
-7. 🎉 Merged PR [#2](https://github.com/iimamul/OfficeHarmonyPro/pull/2) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
-8. 💪 Opened PR [#2](https://github.com/iimamul/OfficeHarmonyPro/pull/2) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
-9. 💪 Opened PR [#166](https://github.com/ani1609/Spendwise/pull/166) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
-10. 🗣 Commented on [#157](https://github.com/ani1609/Spendwise/issues/157#issuecomment-1848992008) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
+1. ❗ Opened issue [#8](https://github.com/iimamul/OfficeHarmonyPro/issues/8) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+2. 🗣 Commented on [#38](https://github.com/Developing-Developer2019/LibraryManagementApp/issues/38#issuecomment-1849950037) in [Developing-Developer2019/LibraryManagementApp](https://github.com/Developing-Developer2019/LibraryManagementApp)
+3. ❗ Opened issue [#7](https://github.com/iimamul/OfficeHarmonyPro/issues/7) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+4. 🔒 Closed issue [#3](https://github.com/iimamul/OfficeHarmonyPro/issues/3) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+5. 🎉 Merged PR [#5](https://github.com/iimamul/OfficeHarmonyPro/pull/5) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+6. ❗ Opened issue [#4](https://github.com/iimamul/OfficeHarmonyPro/issues/4) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+7. ❗ Opened issue [#3](https://github.com/iimamul/OfficeHarmonyPro/issues/3) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+8. 🎉 Merged PR [#2](https://github.com/iimamul/OfficeHarmonyPro/pull/2) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+9. 💪 Opened PR [#2](https://github.com/iimamul/OfficeHarmonyPro/pull/2) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
+10. 💪 Opened PR [#166](https://github.com/ani1609/Spendwise/pull/166) in [ani1609/Spendwise](https://github.com/ani1609/Spendwise)
 <!--END_SECTION:activity-->
 ---
 
