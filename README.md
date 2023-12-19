@@ -38,11 +38,11 @@
 10. ❗ Opened issue [#13](https://github.com/iimamul/OfficeHarmonyPro/issues/13) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
 <!--END_SECTION:activity-->
 ---
-# Latest Youtube Videos
-<!-- YOUTUBE-LIST:START -->
-<!-- YOUTUBE-LIST:END -->
+### Latest YouTube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 ---
-# Blog posts
+### Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
