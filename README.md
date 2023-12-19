@@ -49,6 +49,8 @@
 ---
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Markdown Cheatsheet](https://dev.to/miin/markdown-cheatsheet-140n)
+- [React Journey as a Beginner](https://dev.to/miin/learning-react-journey-9e2)
 <!-- BLOG-POST-LIST:END -->
 ---
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iimamul&show_icons=true&locale=en&layout=compact" alt="iimamul" /></p>--!>
