@@ -38,17 +38,12 @@
 10. ❗ Opened issue [#13](https://github.com/iimamul/OfficeHarmonyPro/issues/13) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
 <!--END_SECTION:activity-->
 ---
-### Latest Youtube Videos
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+# Latest Youtube Videos
+<!-- YOUTUBE-LIST:START -->
+<!-- YOUTUBE-LIST:END -->
 ---
-### Blog Posts
-<!-- BLOG-POST-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=4h3jkUl7Yrs"><img width="140px" src="http://img.youtube.com/vi/4h3jkUl7Yrs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4h3jkUl7Yrs">Fixing Unsupported Compression #premierepro #technology #errorfix</a><br/>Oct 11, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=nIeUG8wio2w"><img width="140px" src="http://img.youtube.com/vi/nIeUG8wio2w/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=nIeUG8wio2w">Fixing Unsupported Compression error: MKV to MP4 | Premiere Pro | Tutorial</a><br/>Oct 10, 2023</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=V5WWbWcDprI"><img width="140px" src="http://img.youtube.com/vi/V5WWbWcDprI/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=V5WWbWcDprI">Home Network Access Anywhere | Tailscale Setup 2023 | Win, Linux, Android</a><br/>Oct 5, 2023</td></tr></table>
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 ---
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iimamul&show_icons=true&locale=en&layout=compact" alt="iimamul" /></p>--!>
