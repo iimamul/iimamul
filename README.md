@@ -38,5 +38,12 @@
 10. ❗ Opened issue [#13](https://github.com/iimamul/OfficeHarmonyPro/issues/13) in [iimamul/OfficeHarmonyPro](https://github.com/iimamul/OfficeHarmonyPro)
 <!--END_SECTION:activity-->
 ---
-
+### Latest Youtube Videos
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+---
+### Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+---
 <!--<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iimamul&show_icons=true&locale=en&layout=compact" alt="iimamul" /></p>--!>
