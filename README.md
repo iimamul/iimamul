@@ -3,7 +3,7 @@
 
 - 🔭 Open to collaborating on **.Net and React Projects**
 
-- 📫 Reach me at **<contact@imamul.com.bd>**
+- 📫 Reach me at **<hello@imamul.com.bd>**
 
 - 📄 Know about my experiences [portfolio.imamul.com.bd](https://portfolio.imamul.com.bd)
 
