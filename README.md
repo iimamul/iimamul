@@ -40,6 +40,7 @@
 ---
 ## :fire: Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Add a script to the HTML header but delay its execution](https://dev.to/miin/add-a-script-to-the-html-header-but-delay-its-execution-4hef)
 - [Markdown Cheatsheet](https://dev.to/miin/markdown-cheatsheet-140n)
 <!-- BLOG-POST-LIST:END -->
 ---
