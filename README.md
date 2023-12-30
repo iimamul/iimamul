@@ -40,6 +40,7 @@
 ---
 ## :fire: Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Code syntax Highlighting in React project with Prism](https://dev.to/miin/code-syntax-highlighting-in-react-project-with-prism-2aj0)
 - [using statement in C#](https://dev.to/miin/using-statement-in-c-28g)
 - [Add a script to the HTML header but delay its execution](https://dev.to/miin/add-a-script-to-the-html-header-but-delay-its-execution-4hef)
 - [Markdown Cheatsheet](https://dev.to/miin/markdown-cheatsheet-140n)
