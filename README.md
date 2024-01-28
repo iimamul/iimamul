@@ -1,6 +1,6 @@
 ## Greetings! 👋
 
-### I'm Imamul. I enjoy exploring and experimenting with new and exciting technologies.
+### I enjoy exploring and experimenting with new and exciting technologies.
 
 - 🔭 Open to collaborating on **.Net and React Projects**
 
@@ -46,6 +46,7 @@
 ## :fire: Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Expose local Web App to the internet with Cloudflare tunnels](https://dev.to/miin/expose-local-web-app-to-the-internet-with-cloudflare-tunnels-956)
 - [PostgreSQL on Render connect with Azure Data Studio](https://dev.to/miin/postgresql-on-render-connect-with-azure-data-studio-3m5d)
 - [Code syntax Highlighting in React project with Prism](https://dev.to/miin/code-syntax-highlighting-in-react-project-with-prism-2aj0)
