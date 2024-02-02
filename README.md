@@ -1,7 +1,5 @@
 ## Greetings! 👋
 
-### I enjoy exploring and experimenting with new and exciting technologies.
-
 - 🔭 Open to collaborating on **.Net and React Projects**
 
 - 📫 Reach me at **<hello@imamul.com.bd>**
