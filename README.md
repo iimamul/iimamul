@@ -21,7 +21,7 @@
 
 ## 🤝 Join Discord
 
-- <a href="https://link.imamul.com.bd/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://link.imamul.com.bd/discord" height="30" width="40" /></a> Join [2IN Channel on discord](https://link.imamul.com.bd/discord)
+- <a href="https://link.imamul.com.bd/discord" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://link.imamul.com.bd/discord" height="30" width="40" /></a> Join [2IN Channel on discord](https://link.imamul.com.bd/discord)
 
 ## :zap: Recent Activity
 
