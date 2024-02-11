@@ -21,7 +21,7 @@
 
 ## 🤝 Join Community
 
-- <a href="https://discord.gg/https://discord.gg/kqqYqSrnAE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/kqqYqSrnAE" height="30" width="40" /></a> Join [discord](https://discord.gg/kqqYqSrnAE)
+- <a href="https://discord.gg/https://link.imamul.com.bd/discord" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://link.imamul.com.bd/discord" height="30" width="40" /></a> Join [discord](https://link.imamul.com.bd/discord)
 
 ## :zap: Recent Activity
 
