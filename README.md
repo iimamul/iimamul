@@ -63,6 +63,4 @@
 <td><a href="https://www.youtube.com/watch?v=V5WWbWcDprI">Home Network Access Anywhere | Tailscale Setup 2023 | Win, Linux, Android</a><br/>Oct 5, 2023</td></tr></table>
 <!-- YOUTUBE:END -->
 
-## 🍵 Support
 
-<p><a href="https://ko-fi.com/https://ko-fi.com/imamul"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://ko-fi.com/imamul" /></a></p><br><br>
