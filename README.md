@@ -4,7 +4,7 @@
 
 - 📫 Reach me at **<hello@imamul.com.bd>**
 
-- 📄 Know about my experiences [portfolio.imamul.com.bd](https://portfolio.imamul.com.bd)
+- 📄 Visit: [imamul.com.bd](https://imamul.com.bd)
 
 ### Connect with me:
 
