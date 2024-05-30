@@ -2,9 +2,9 @@
 
 - 🔭 Open to collaborating on **.Net and React Projects**
 
-- 📫 Reach me at **<hello@imamul.com.bd>**
+- 📫 Reach me at **<hello@imamul.dev>**
 
-- 📄 Visit: [imamul.com.bd](https://imamul.com.bd)
+- 📄 Visit: [imamul.dev](https://imamul.dev)
 
 ### Connect with me:
 
