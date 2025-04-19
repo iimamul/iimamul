@@ -4,7 +4,6 @@
 
 - 📫 Reach me at **<hello@imamul.dev>**
 
-- 📄 Visit: [imamul.dev](https://imamul.dev)
 
 ### Connect with me:
 
