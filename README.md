@@ -54,8 +54,8 @@
 
 <!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Al5GIAKpl1Y"><img width="140px" src="http://img.youtube.com/vi/Al5GIAKpl1Y/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=Al5GIAKpl1Y">Free PostgreSQL on Render, Connect with Azure Data Studio</a><br/>Jan 3, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=4h3jkUl7Yrs"><img width="140px" src="http://img.youtube.com/vi/4h3jkUl7Yrs/maxresdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=4h3jkUl7Yrs">Fixing Unsupported Compression #premierepro #technology #errorfix</a><br/>Oct 11, 2023</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/shorts/4h3jkUl7Yrs"><img width="140px" src="http://img.youtube.com/vi/4h3jkUl7Yrs/maxresdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/shorts/4h3jkUl7Yrs">Fixing Unsupported Compression #premierepro #technology #errorfix</a><br/>Oct 11, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=nIeUG8wio2w"><img width="140px" src="http://img.youtube.com/vi/nIeUG8wio2w/maxresdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=nIeUG8wio2w">Fixing Unsupported Compression error: MKV to MP4 | Premiere Pro | Tutorial</a><br/>Oct 10, 2023</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=V5WWbWcDprI"><img width="140px" src="http://img.youtube.com/vi/V5WWbWcDprI/maxresdefault.jpg"></a></td>
